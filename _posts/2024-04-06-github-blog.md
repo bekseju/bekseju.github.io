@@ -1,7 +1,7 @@
-----
+---
 layout: single
-title: "깃헙(Github)을 블로그 사용하기"
-----
+title: 깃헙(Github)을 블로그 사용하기
+---
 
 [깃헙 블로그 10분안에 완성하기]: https://www.youtube.com/watch?v=ACzFIAOsfpM
 [깃헙(Github) 블로그 만들기 - 시즌1]: https://www.youtube.com/playlist?list=PLIMb_GuNnFwfQBZQwD-vCZENL5YLDZekr
