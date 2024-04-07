@@ -4,7 +4,7 @@ title: "마크다운 랭귀지 문법"
 ---   
 <!-- Heading -->
 # 1. # <strong>- 헤딩</strong>
-```markdown
+```md
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -24,12 +24,12 @@ paragraph
 
 <!-- Line -->
 # 2. ___ - 라인
-```markdown
+```md
 ___
 ```
 ___
 # 3. **, *, ~~ - 볼드, 이탤릭, 취소선
-``` markdown
+``` 
 이것은 **굵은 글씨**입니다. 그리고 이것은 *이탤릭*체 이고,
 이것은 ~~취소선~~입니다.
 ```
@@ -37,13 +37,17 @@ ___
 이것은 ~~취소선~~입니다.
 
 # 4. > - 인용
-```markdown
+```md
 >천리길도 한걸음부터
+>>가는 말이 고와야 오는 말도 곱다.
+>>주말에는 내가 요리사
 ```
 >천리길도 한걸음부터
+>>가는 말이 고와야 오는 말도 곱다.   
+>>주말에는 내가 요리사
 
 # 5. * 또는 - - 목록
-```markdown
+```md
 * 사과
 * 배
 * 오렌지
@@ -61,7 +65,7 @@ ___
 - 기차
 
 # 6. 1. - 숫자목록
-``` markdown
+```md
 1. first
 2. second
 3. third
@@ -75,19 +79,23 @@ ___
 4. forth
 
 # 7. `[링크](주소)` - 링크
-``` markdown
+```md
 구글에서 검색하기 [click](https://wwww.google.com)
 ```
 구글에서 검색하기 [click](https://wwww.google.com)
 
 # 8. `![이미지설명](주소)` - 이미지
-``` markdown
+```md
 ![구글로고](https://about.google/assets-main/img/glue-google-color-logo.svg)
+![Prunus](http://www.gstatic.com/webp/gallery/4.jpg)
+<img width="150" src="http://gstatic.com/webp/gallery/4.jpg" alt="Prunus" title="마크다운은 이미지의 크기를 지정할 수 없으므로, 크기 지정을 위해서는 <img> 태그를 사용해야 합니다.">
 ```
-![구글로고](https://about.google/assets-main/img/glue-google-color-logo.svg)
+![구글로고](https://about.google/assets-main/img/glue-google-color-logo.svg)   
+![Prunus](http://www.gstatic.com/webp/gallery/4.jpg)   
+<img width="300" src="http://gstatic.com/webp/gallery/4.jpg" alt="Prunus" title="마크다운은 이미지의 크기를 지정할 수 없으므로, 크기 지정을 위해서는 <img> 태그를 사용해야 합니다.">
 
 # 9. | - 테이블
-``` markdown
+```md
 |Header|Description|
 |--|--|
 |Cell 1|Cell 2|
@@ -98,7 +106,7 @@ ___
 |Cell 1|Cell 2|
 |Cell 1|Cell 2|   
 
-``` markdown
+```md
 <!-- 왼쪽 정렬 -->
 |Header|Description|
 |:--|:--|
@@ -111,7 +119,7 @@ ___
 |Cell 1|Cell 2|
 |Cell 1|Cell 2|
 
-``` markdown
+```md
 <!-- 오른쪽 정렬 -->
 |Header|Description|
 |--:|--:|
@@ -125,7 +133,7 @@ ___
 |Cell 1|Cell 2|
 
 
-``` markdown
+```md
 <!-- 가운데 정렬 -->
 |Header|Description|
 |:--:|:--:|
@@ -139,7 +147,7 @@ ___
 |Cell 1|Cell 2|
 
 # 10. ` - 코드
-``` markdown
+```md
 To print message in the console, use   
 `console.log('your message')` and ...
 ```
