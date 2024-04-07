@@ -138,6 +138,13 @@ ___
 |Cell 1|Cell 2|
 |Cell 1|Cell 2|
 
+# 10. ` - 코드
+``` markdown
+To print message in the console, use   
+`console.log('your message')` and ...
+```
+To print message in the console, use   
+`console.log('your message')` and ...
     
 # 참고 사이트  
 주로 teddynote 강의 참고  
