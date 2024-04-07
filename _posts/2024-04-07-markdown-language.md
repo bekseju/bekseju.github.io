@@ -2,6 +2,40 @@
 layout: single 
 title: "마크다운 랭귀지 문법"
 ---   
+<!-- Heading -->
+# 1. # - 헤딩
+```markdown
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+paragraph
+```
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+paragraph
+
+<!-- Line -->
+# 2. ___ - 라인
+```markdown
+___
+```
+___
+# 3. **, *, ~~ - 볼드, 이탤릭, 취소선
+``` markdown
+이것은 **굵은 글씨**입니다. 그리고 이것은 *이탤릭*체 이고,
+이것은 ~~취소선~~입니다.
+```
+이것은 **굵은 글씨**입니다. 그리고 이것은 *이탤릭*체 이고,
+이것은 ~~취소선~~입니다.
+
 
 # 참고 사이트  
 주로 teddynote 강의 참고  
