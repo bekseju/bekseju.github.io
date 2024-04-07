@@ -74,13 +74,13 @@ ___
 
 4. forth
 
-# 7. [링크](주소) - 링크
+# 7. `[링크](주소)` - 링크
 ``` markdown
 구글에서 검색하기 [click](https://wwww.google.com)
 ```
 구글에서 검색하기 [click](https://wwww.google.com)
 
-# 8. ![이미지설명](주소) - 이미지
+# 8. `![이미지설명](주소)` - 이미지
 ``` markdown
 ![구글로고](https://about.google/assets-main/img/glue-google-color-logo.svg)
 ```
