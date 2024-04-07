@@ -60,7 +60,85 @@ ___
 - 비행기
 - 기차
 
+# 6. 1. - 숫자목록
+``` markdown
+1. first
+2. second
+3. third
 
+4. forth
+```
+1. first
+2. second
+3. third
+
+4. forth
+
+# 7. [링크](주소) - 링크
+``` markdown
+구글에서 검색하기 [click](https://wwww.google.com)
+```
+구글에서 검색하기 [click](https://wwww.google.com)
+
+# 8. ![이미지설명](주소) - 이미지
+``` markdown
+![구글로고](https://about.google/assets-main/img/glue-google-color-logo.svg)
+```
+![구글로고](https://about.google/assets-main/img/glue-google-color-logo.svg)
+
+# 9. | - 테이블
+``` markdown
+|Header|Description|
+|--|--|
+|Cell 1|Cell 2|
+|Cell 1|Cell 2|
+```
+|Header|Description|
+|--|--|
+|Cell 1|Cell 2|
+|Cell 1|Cell 2|   
+
+``` markdown
+<!-- 왼쪽 정렬 -->
+|Header|Description|
+|:--|:--|
+|Cell 1|Cell 2|
+|Cell 1|Cell 2|
+```
+<!-- 왼쪽 정렬 -->
+|Header|Description|
+|:--|:--|
+|Cell 1|Cell 2|
+|Cell 1|Cell 2|
+
+``` markdown
+<!-- 오른쪽 정렬 -->
+|Header|Description|
+|--:|--:|
+|Cell 1|Cell 2|
+|Cell 1|Cell 2|
+```
+<!-- 오른쪽 정렬 -->
+|Header|Description|
+|--:|--:|
+|Cell 1|Cell 2|
+|Cell 1|Cell 2|
+
+
+``` markdown
+<!-- 가운데 정렬 -->
+|Header|Description|
+|:--:|:--:|
+|Cell 1|Cell 2|
+|Cell 1|Cell 2|
+```
+<!-- 가운데 정렬 -->
+|Header|Description|
+|:--:|:--:|
+|Cell 1|Cell 2|
+|Cell 1|Cell 2|
+
+    
 # 참고 사이트  
 주로 teddynote 강의 참고  
 
