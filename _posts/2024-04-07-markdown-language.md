@@ -115,6 +115,7 @@ ___
 |Cell 1|Cell 2|
 ```
 <!-- 왼쪽 정렬 -->  
+  
 |Header|Description|
 |:---|:---|
 |Cell 1|Cell 2|
@@ -128,11 +129,12 @@ ___
 |Cell 1|Cell 2|
 ```
 <!-- 오른쪽 정렬 -->  
+  
 |Header|Description|
 |---:|---:|
 |Cell 1|Cell 2|
 |Cell 1|Cell 2|
-  
+   
 
 ```md
 <!-- 가운데 정렬 -->
@@ -142,11 +144,12 @@ ___
 |Cell 1|Cell 2|
 ```
 <!-- 가운데 정렬 -->  
+  
 |Header|Description|
 |:---:|:---:|
 |Cell 1|Cell 2|
 |Cell 1|Cell 2|
-  
+   
 # 10. ` - 코드
 ```md
 To print message in the console, use   
