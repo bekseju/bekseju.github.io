@@ -97,38 +97,38 @@ ___
 # 9. | - 테이블
 ```md
 |Header|Description|
-|--|--|
+|---|---|
 |Cell 1|Cell 2|
 |Cell 1|Cell 2|
 ```
 |Header|Description|
-|--|--|
+|---|---|
 |Cell 1|Cell 2|
 |Cell 1|Cell 2|   
 
 ```md
 <!-- 왼쪽 정렬 -->
 |Header|Description|
-|:--|:--|
+|:---|:---|
 |Cell 1|Cell 2|
 |Cell 1|Cell 2|
 ```
 <!-- 왼쪽 정렬 -->
 |Header|Description|
-|:--|:--|
+|:---|:---|
 |Cell 1|Cell 2|
 |Cell 1|Cell 2|
 
 ```md
 <!-- 오른쪽 정렬 -->
 |Header|Description|
-|--:|--:|
+|---:|---:|
 |Cell 1|Cell 2|
 |Cell 1|Cell 2|
 ```
 <!-- 오른쪽 정렬 -->
 |Header|Description|
-|--:|--:|
+|---:|---:|
 |Cell 1|Cell 2|
 |Cell 1|Cell 2|
 
@@ -136,13 +136,13 @@ ___
 ```md
 <!-- 가운데 정렬 -->
 |Header|Description|
-|:--:|:--:|
+|:---:|:---:|
 |Cell 1|Cell 2|
 |Cell 1|Cell 2|
 ```
 <!-- 가운데 정렬 -->
 |Header|Description|
-|:--:|:--:|
+|:---:|:---:|
 |Cell 1|Cell 2|
 |Cell 1|Cell 2|
 
