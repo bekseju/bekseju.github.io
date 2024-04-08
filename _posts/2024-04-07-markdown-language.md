@@ -102,9 +102,9 @@ ___
 |Cell 1|Cell 2|
 ```  
 |Header|Description|  
-|---|---|
-|Cell 1|Cell 2|
-|Cell 1|Cell 2|   
+|---|---|  
+|Cell 1|Cell 2|  
+|Cell 1|Cell 2|    
   
 ```md
 <!-- 왼쪽 정렬 -->
